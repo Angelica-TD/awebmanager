@@ -1,0 +1,32 @@
+# Ignore core WordPress files
+
+wp-config.php
+
+
+# Ignore uploads and upgrade directories
+
+uploads/
+
+upgrade/
+
+mu-plugins/
+
+updraft/
+
+upgrade-temp-backup/
+
+# Ignore plugins
+
+plugins/*
+
+# Ignore specific themes (optional)
+
+# wp-content/themes/theme-name/
+
+
+# Ignore other generated files
+
+.htaccess
+
+error_log
+
